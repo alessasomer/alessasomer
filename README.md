@@ -12,7 +12,6 @@ I'm a passionate software engineer and data scientist going into my senior year 
 
 ## Skills
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Express, Django
+- **Languages:** Javascript/Typescript, Python, Dart, HTML + CSS, Java
+- **Frameworks/Libraries:** TensorFlow, PyTorch, R, Stata, React, Node.js
 - **Databases:** MySQL,
-- **Tools:** Git, Docker, Kubernetes, Jenkins
