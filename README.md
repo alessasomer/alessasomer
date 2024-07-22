@@ -1,6 +1,6 @@
 
-## Hellow World!
-I'm a passionate software engineer and data scientist going into my senior year at Williams College.
+## Hello World!
+I'm a passionate software engineer and data scientist going into my senior year at Williams College expecting to graduate in the Spring of 2025.
 
 ## About Me
 
